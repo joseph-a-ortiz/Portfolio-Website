@@ -759,6 +759,7 @@ ABOUT
   background-color: #24af01;
 }
 
+
 /*
 PORTFOLIO
 */
@@ -1171,6 +1172,7 @@ body {
 
 .about {
   text-align: center;
+
 }
 
 .about .prof-shot {
@@ -1330,6 +1332,12 @@ body {
   }						
       
   }
+
+
+p.lead {
+  margin-left: -2%;
+  text-align: left;
+}
   
 .round{
 
