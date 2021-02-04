@@ -21,7 +21,7 @@ class About extends React.Component {
           value: "75"
         }, {
           id: "ReactJS_skill",
-          content: "ReactJS",
+          content: "React",
           porcentage: "75%",
           value: "75"
         },
