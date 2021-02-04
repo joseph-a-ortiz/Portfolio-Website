@@ -1,5 +1,5 @@
 import React from "react";
-import myImage from "../img/myImage.png";
+
 import logo1 from "../img/cactus logo.png";
 import logo2 from "../img/profile pic";
 
@@ -43,7 +43,7 @@ class About extends React.Component {
           id: "first-p-about",
           content:
   
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Hey! I’m Joseph, I was born and raised in Oklahoma, where I enjoy making music and skateboarding. If you like my site, don’t hesitate to reach out!"
         },
       ]
     };
@@ -52,7 +52,7 @@ class About extends React.Component {
   render() {
     return (
       <section id="about" className="about-mf sect-pt4 ">
-           
+    
         <div className="container">
           
           <div className="row">
