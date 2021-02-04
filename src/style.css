@@ -9,6 +9,12 @@ GENERAL STYLING
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.profile {
+  margin-top: 61px;
+  height: 350px;
+  margin-bottom: 20px;
+}
+
 @media screen and (max-width: 600px) {
   div.container {
     width: 100%;
@@ -762,6 +768,7 @@ PORTFOLIO
     margin-top: 61px;
     height: 100%;
     width: 100%;
+
   }
 
 }
@@ -3551,6 +3558,7 @@ nav.navbar-b {
 
 img.profile {
   margin-left: 22%;
+
 }
 
 p.lead {
@@ -3764,4 +3772,3 @@ height: 100px;
 /*
 LARGE SCREENS
 */
-
